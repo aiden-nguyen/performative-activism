@@ -118,7 +118,7 @@ save_as_csv(tweets, "blmtweets.csv")
 ```
 Now compare this to the data from the Pew Research Center,
 <center>
-![Pew's Study Copy](BLM_pew - Copy.png)
+![Pew's Study Copy](BLM_pew_recent.png)
 </center>
 <br>
 and you will see the problem. At first glance, these plots look relatively similar and share a similar shape, but the large difference is the y-axis scale. The plot from the Pew Research Center goes from 0 to 10 million whereas the plot of the tweets from the last few days goes from 0 to 4500. In these past few days, the highest peak was 4300. If you go back in time one year and look at the peak then, it was 8.8 million. That is a 2047% difference, yet nothing significant changed during this past year that would warrant this dramatic decrease in frequency of tweets. Black people are still getting murdered by police regularly. 
